@@ -1,0 +1,31 @@
+body{
+    display: flex;
+}
+#step2{
+    text-align: center;
+    background-color: rgb(95, 145, 161);
+}
+.step{background-color: gainsboro;
+}
+.container{
+    /* border: 1px solid; */
+    margin-top: 150px;
+    width: 50%;
+    text-align: center;
+}
+span{width: 80%;
+    text-align: center;
+}
+fieldset{
+    display: block;
+    margin: 194px 3px 1px 18px;
+    text-align: center;
+    padding: 0px 0px 70px 0px;
+}
+.fieldset2{
+text-align: left;
+margin: 179px 3px 11px 59px;
+
+padding: 17px 39px 12px 31px;
+
+}
